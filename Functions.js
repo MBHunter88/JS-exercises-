@@ -137,7 +137,9 @@ function mysteryFunction1(p1) {
   // Congrats, you made it to the end!
   // Did you find this easy or hard? If you used references, which ones helped you?
   // Please answer in a comment below.
-  //
+  /* I was able to get through these challenges rather easy, I set them up in VSC and tested 
+  for the desired outputs. */
+
   
   // Email your file to the course staff,
   // or commit your file to GitHub and email us a link.

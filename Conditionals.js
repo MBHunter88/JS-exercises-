@@ -324,4 +324,6 @@ console.log("exercise10: " + (exercise10(10)));
 // Congrats, you made it to the end! You rock!
 // Did you find this easy or hard? If you used references, which ones helped you?
 // Please answer in a comment below.
-//
+/*I would say it was right in between easy and hard for me, I was able to get through
+the first few problems rahter easily but it took me a little longer for the last two. I used 
+mdn web docs to help me remember syntax. */

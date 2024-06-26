@@ -110,7 +110,8 @@ console.log(me[favoriteAnimal]);
 // Congrats, you made it to the end!
 // Did you find this easy or hard? If you used references, which ones helped you?
 // Please answer in a comment below.
-//
+/* I was able to recall a lot of the information I learned on freeCodeCamp.org about objects
+so was able to complete these exercises rather quickly */
 
 // Email your file to the course staff,
 // or commit your file to GitHub and email us a link.
